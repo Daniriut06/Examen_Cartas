@@ -56,8 +56,8 @@ public class FrmJuego extends JFrame {
         pnlJugador2.setLayout(null);
 
         tpJugadores.setBounds(10, 40, 550, 170);
-        tpJugadores.addTab("Martín Estrada Contreras", pnlJugador1);
-        tpJugadores.addTab("Raul Vidal", pnlJugador2);
+        tpJugadores.addTab("Daniel Sanchez", pnlJugador1);
+        tpJugadores.addTab("JuanJo Rua", pnlJugador2);
 
         btnRepartir.setBounds(10, 10, 100, 25);
         btnRepartir.setText("Repartir");

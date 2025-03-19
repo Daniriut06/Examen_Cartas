@@ -3,3 +3,5 @@ public class App {
         new FrmJuego().setVisible(true);
     }
 }
+
+// HECHO POR JUAN JOSE RUA HIGUITA Y DANIEL SANCHEZ RESTREPO :)
